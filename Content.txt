@@ -1,0 +1,64 @@
+
+Link TO get the Spring boot application with CRUD using mysql and  Hibernate
+
+https://github.com/varuncbv/SpringBootRestAPIHibernateJPAMYSQLTutorial
+
+M2_HOME
+C:\Program Files\ApacheMaven3.5.2
+
+
+
+http://localhost:8080  mkyong application 
+
+https://github.com/net-vinothkumar/spring-boot-application-in-cloud
+
+spring-boot-application-in-cloud > cf login -a api.run.pivotal.io
+
+API endpoint: api.run.pivotal.io
+
+Email> emailaddress@domain.com
+
+Password>
+Authenticating...
+OK
+
+*************************************************************************************
+Links to be refered for learning Restfull Web services 
+*************************************************************************************
+http://www.javatpoint.com/what-is-web-service
+http://www.javatpoint.com/java-web-services-tutorial
+http://www.javatpoint.com/soap-vs-rest-web-services
+http://www.tutorialspoint.com/webservices/
+https://docs.oracle.com/javaee/7/tutorial/jaxrs001.htm#GIJQY
+https://www.tutorialspoint.com/restful/restful_introduction.htm
+https://www.tutorialspoint.com/restful/restful_environment.htm
+https://www.tutorialspoint.com/restful/restful_messages.htm
+https://docs.oracle.com/javaee/7/tutorial/jaxrs002.htm#GILIK
+https://jersey.java.net/documentation/latest/user-guide.html#jaxrs-resources
+https://www.tutorialspoint.com/restful/restful_resources.htm
+https://www.tutorialspoint.com/restful/restful_addressing.htm
+https://jersey.java.net/documentation/latest/user-guide.html#d0e1993
+https://www.tutorialspoint.com/restful/restful_methods.htm
+http://www.mkyong.com/tutorials/jax-rs-tutorials/
+http://www.mkyong.com/tutorials/jax-rs-tutorials/
+https://www.getpostman.com/
+http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html
+https://jersey.java.net/documentation/latest/user-guide.html
+https://www.tutorialspoint.com/restful/index.htm
+http://www.mkyong.com/tutorials/jax-rs-tutorials/
+
+
+
+mysqld --initialize-insecure
+mysqld --console
+mysql -u root -p  
+then set pwd 
+GRANT ALL ON *.* TO 'root'@'localhost';
+create database demoapi;
+
+
+ALTER USER 'root'@'localhost' PASSWORD EXPIRE;
+SET PASSWORD = PASSWORD('new_password');
+
+
+
